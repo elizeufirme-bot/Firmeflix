@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background: black;
+    padding: 50px;
+    font-family: "BBH Sans Bogle", sans-serif;  
+}
+
+header {
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 20px;
+    color: rgb(253, 253, 253);
+}
+section {
+    background: rgb(0, 57, 243);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 5%;
+}
+h1 { 
+    font-size: 40px;
+}
