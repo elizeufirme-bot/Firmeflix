@@ -11,7 +11,7 @@ header {
     font-size: 20px;
     color: rgb(253, 253, 253);
 }
-section {
+.chamada {
     background: rgb(0, 57, 243);
     padding-bottom: 80px;
     padding-top: 80px;
